@@ -4,4 +4,5 @@
 
 ## 📌 공부 주제
 
-### 리눅스 메모리 관리 기술
+### 시스템 프로그래밍
+- [시스템 콜](https://github.com/Ohjiwoo-lab/linux-kernel-study/blob/main/SystemProgramming/system_call.md)

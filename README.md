@@ -6,3 +6,4 @@
 
 ### 시스템 프로그래밍
 - [시스템 콜](https://github.com/Ohjiwoo-lab/linux-kernel-study/blob/main/SystemProgramming/system_call.md)
+- [메모리 레이아웃](https://github.com/Ohjiwoo-lab/linux-kernel-study/blob/main/SystemProgramming/memory_layout.md)
